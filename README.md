@@ -1,6 +1,7 @@
-# README
+# TinySocial
 
-This is back end for C-Social application...
+This is back end for Tiny social web application.
+It includes user management system using OmniAuth, post management system with comments and replies, real time message and image gallery in home page.
 
 Things you may want to cover:
 
